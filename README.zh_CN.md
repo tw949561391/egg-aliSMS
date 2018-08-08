@@ -28,7 +28,7 @@ Description here.
 
 ### 依赖的 egg 版本
 
-egg-aliSMS 版本 | egg 1.x
+egg-aliyun-sms 版本 | egg 1.x
 --- | ---
 1.x | 😁
 0.x | ❌

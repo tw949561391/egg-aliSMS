@@ -1,6 +1,6 @@
 {
   "name": "egg-aliyun-sms",
-  "version": "1.2.6",
+  "version": "1.5.0",
   "description": "",
   "eggPlugin": {
     "name": "aliSMS"
@@ -11,7 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "@alicloud/sms-sdk": "^1.0.3"
+    "@alicloud/sms-sdk": "^1.1.2"
   },
   "devDependencies": {
     "autod": "^3.0.0",

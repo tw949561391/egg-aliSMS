@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-aliSMS --save
+$ npm i egg-aliyun-sms --save
 ```
 
 ## Usage
@@ -49,7 +49,7 @@ exports.aliSMS = {
   client:{
     accessKeyId: 'yourAccessKeyId',
     secretAccessKey: 'yourAccessKeySecret',
-    checkMobile: '15000000000', //check it work when this plugin init;
+    checkMobile: null, //check it work when this plugin init;
   }
 };
 ```
