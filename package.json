@@ -1,6 +1,6 @@
 {
   "name": "egg-aliyun-sms",
-  "version": "1.5.0",
+  "version": "1.5.2",
   "description": "",
   "eggPlugin": {
     "name": "aliSMS"
@@ -37,6 +37,7 @@
     "autod": "autod"
   },
   "files": [
+    "app",
     "config",
     "agent.js",
     "lib",
